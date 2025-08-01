@@ -1,7 +1,7 @@
 <div align="center">
   <img src="app-icon.png" alt="LiveSchedule App Icon" width="120" height="120">
   
-  # 📅 LiveSchedule - Visual Calendar for Modern Teams
+  # LiveSchedule - Visual Calendar for the Future of Work
 
   > **Live Better with LiveSchedule**
 
@@ -15,7 +15,7 @@
 
 <img src="app-icon.png" alt="LiveSchedule" width="60" height="60" align="right">
 
-LiveSchedule transforms complex work schedules into **beautiful, intuitive timeline views**. Perfect for **contact centres**, **healthcare teams**, and **corporate organizations** that need visual clarity and real-time schedule coordination.
+LiveSchedule transforms complex work schedules into **beautiful, intuitive timeline views** for the evolving workplace. As AI agents reshape how humans work, LiveSchedule provides the visual clarity and real-time coordination essential for **contact centres**, **healthcare teams**, and **organizations** navigating the future of human-AI collaboration.
 
 ## 🎯 Key Features
 
@@ -64,11 +64,11 @@ Meeting coordination with timeline-based resource allocation and status awarenes
 
 ## 💡 Why Choose LiveSchedule?
 
-- **🌟 Visual-First**: Transform text-heavy schedules into intuitive timelines
-- **⚡ Real-Time Intelligence**: Live indicators with intelligent auto-scroll
-- **♿ Accessibility Excellence**: iOS Human Interface Guidelines compliance
-- **🛡️ Enterprise Security**: AWS Cognito with biometric authentication
-- **📱 Native Performance**: SwiftUI with 60fps timeline rendering
+- **🌟 Visual-First**: Transform text-heavy schedules into intuitive timelines for the evolving workplace
+- **⚡ Real-Time Intelligence**: Live indicators with intelligent auto-scroll for dynamic work environments
+- **♿ Accessibility Excellence**: iOS Human Interface Guidelines compliance for inclusive future workplaces
+- **🛡️ Enterprise Security**: AWS Cognito with biometric authentication for secure human-AI coordination
+- **📱 Native Performance**: SwiftUI with 60fps timeline rendering optimized for modern workflows
 
 ## 📈 Business Benefits
 
@@ -93,7 +93,7 @@ Meeting coordination with timeline-based resource allocation and status awarenes
 
 ## 🎯 Roadmap
 
-**Coming Soon**: Widget support, Apple Watch app, push notifications, enhanced themes
+**Coming Soon**: Widget support, Live View, Apple Watch app, push notifications, offline support, real-time status integration, enhanced themes
 
 **Future Vision**: Team collaboration, AI-powered scheduling, advanced analytics, integration hub
 
